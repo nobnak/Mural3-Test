@@ -1,3 +1,6 @@
 [submodule "Assets/Packages/Mural3"]
 	path = Assets/Packages/Mural3
 	url = https://github.com/nobnak/Mural3.git
+[submodule "Assets/Packages/Gist"]
+	path = Assets/Packages/Gist
+	url = https://github.com/nobnak/Gist.git
