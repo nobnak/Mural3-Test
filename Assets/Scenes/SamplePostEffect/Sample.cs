@@ -33,7 +33,7 @@ public class Sample : ScriptableRendererFeature {
             dstDesc.depthBufferBits = 0;
             cmd.GetTemporaryRT(P_TmpTex, dstDesc);
 
-            mat.SetFloat(P_Throttle, CurrTuner.throttle);
+            cmd.SetGlobalFloat(P_Throttle, CurrTuner.throttle);
 
             cmd.Blit(dst, P_TmpTex);
             cmd.Blit(P_TmpTex, dst, mat);
