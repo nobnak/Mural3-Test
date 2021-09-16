@@ -7,3 +7,6 @@
 [submodule "Assets/Packages/unity-osc"]
 	path = Assets/Packages/unity-osc
 	url = https://github.com/nobnak/unity-osc.git
+[submodule "Assets/Packages/Gist2"]
+	path = Assets/Packages/Gist2
+	url = https://github.com/nobnak/Gist2.git
