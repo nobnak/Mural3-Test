@@ -10,3 +10,6 @@
 [submodule "Assets/Packages/Gist2"]
 	path = Assets/Packages/Gist2
 	url = https://github.com/nobnak/Gist2.git
+[submodule "Assets/Packages/RapidGUI"]
+	path = Assets/Packages/RapidGUI
+	url = https://github.com/fuqunaga/RapidGUI.git
