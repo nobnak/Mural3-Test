@@ -6,6 +6,6 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Packages/Mural3/Examples/Server/Server.unity
+    path: Assets/Packages/Mural3/Runtime/Examples/Server/Server.unity
     guid: 7d1653708e472b44386dc4b458e9acbc
   m_configObjects: {}
