@@ -13,3 +13,6 @@
 [submodule "Assets/Packages/RapidGUI"]
 	path = Assets/Packages/RapidGUI
 	url = https://github.com/fuqunaga/RapidGUI.git
+[submodule "Assets/Packages/LLGraphicsUnity"]
+	path = Assets/Packages/LLGraphicsUnity
+	url = https://github.com/nobnak/LLGraphicsUnity.git
